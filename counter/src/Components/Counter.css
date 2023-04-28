@@ -1,0 +1,33 @@
+.counter,
+.heading {
+  text-align: center;
+  font-size: xx-large;
+  display: flex;
+  margin-left: 47rem;
+}
+
+.heading {
+  margin-top: 14rem;
+  font-size: xxx-large;
+}
+
+.counter{
+  margin-left: 48rem;
+}
+
+.button {
+  color: red;
+  width: 2rem;
+  border-radius: 50%;
+  background-color: black;
+  height: fit-content;
+}
+
+.button:hover{
+  color: black;
+  background-color: red;
+}
+
+.count{
+  padding: 0 3%;
+}
